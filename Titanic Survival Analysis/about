@@ -1,0 +1,37 @@
+📊 Data Analysis & Visualization Project – Titanic Survival Analysis
+I recently completed an end-to-end data analysis project based on passenger data from the historic RMS Titanic disaster.
+
+🔎 Project Objective
+The goal of this project was to analyze passenger data to identify the key factors that influenced survival rates. Using data analysis and visualization techniques, I explored patterns related to demographics, ticket class, fare, and other variables to uncover meaningful insights.
+
+🛠️ What I Did
+✔️ Data Cleaning & Preprocessing
+Handled missing values (Age, Cabin, Embarked)
+Removed irrelevant columns
+Converted categorical data into usable formats
+Checked for inconsistencies and duplicates
+
+✔️ Exploratory Data Analysis (EDA)
+Analyzed survival distribution
+Examined survival rates by gender, age group, and passenger class
+Explored correlations between fare, class, and survival
+Identified patterns and outliers in the dataset
+✔️ Data Visualization
+Created bar charts, histograms, and count plots
+Compared survival rates across different categories
+Visualized relationships between socioeconomic status and survival
+
+📈 Key Insights
+🔹 Gender played a major role in survival probability
+ 🔹 First-class passengers had significantly higher survival rates
+ 🔹 Children had better survival chances compared to many adults
+ 🔹 Fare and passenger class were strongly associated with survival outcomes
+
+💡 What I Learned
+This project strengthened my ability to:
+Work with real-world historical datasets
+Perform structured exploratory data analysis
+Extract meaningful insights from raw data
+Communicate findings effectively through visualization
+Apply analytical thinking to understand cause-and-effect relationships
+Projects like this are helping me build a strong foundation in Data Science and Engineering, and I’m excited to continue applying data-driven approaches to real-world problems.
