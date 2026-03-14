@@ -1,0 +1,16 @@
+📊 **Statistical Data Analysis Project: Automotive Market Insights**
+
+I’m pleased to share one of my recent projects focused on **statistical data analysis of the automobile market**, where I used data to understand the real factors that influence car prices and market behavior.
+
+In this project, I worked with a real-world automotive dataset and followed a complete statistical workflow — from raw data preparation to meaningful interpretation. After cleaning the dataset and handling missing or inconsistent values, I classified variables according to their measurement scales (nominal, ordinal, and ratio) to ensure appropriate analytical methods were applied.
+
+Using descriptive statistics, I examined central tendency and variability (mean, median, standard deviation, coefficient of variation) to understand how prices are distributed. The analysis revealed a positively skewed distribution, indicating that while most vehicles fall within an affordable range, a small number of luxury cars significantly increase the average price.
+
+To better understand unusual observations, I applied the IQR method to detect outliers, which highlighted premium vehicles that behave differently from the general market. Correlation analysis was then used to explore relationships between variables. Strong positive relationships were found between price and factors such as engine size, horsepower, and curb weight, while fuel efficiency showed a negative relationship — suggesting that higher-performance vehicles tend to sacrifice mileage.
+
+Finally, I built regression models to quantify how multiple factors jointly influence price. The model explained a large portion of price variation, demonstrating how statistical techniques can uncover actionable insights from complex data.
+
+🛠️ **Tools Used:**
+python| Statistical Modeling | Data Visualization | Exploratory Data Analysis (EDA)
+
+
