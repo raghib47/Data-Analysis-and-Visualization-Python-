@@ -1,1 +1,19 @@
+📊 Project: Book Sales Analysis
+
+I just completed an exploratory data analysis on a books sales dataset (1,000+ records), uncovering key patterns in pricing, author performance, and genre popularity.
+
+🔍 Key Insights:
+• Lower price points ($2–$8) drive the highest unit sales — clear price sensitivity
+• "Excellent" rated authors generate ~10x higher median sales than other tiers
+• Genre fiction dominates both in volume and rating count
+• English-language books make up ~95% of the dataset
+
+📈 Visualizations include:
+• Box plots by genre & author rating
+• Scatter plots: price vs. units sold, rating vs. popularity
+• Time series of sales trends
+• Top 10 authors by gross sales
+
+💡 Business takeaway: Quality matters, but pricing strategy and author reputation play equally critical roles in driving sales.
+
 
