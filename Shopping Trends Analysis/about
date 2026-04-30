@@ -1,1 +1,19 @@
+In this project, I worked with transactional shopping data to dive deep into customer purchasing behavior and uncover meaningful patterns. The process started with thorough data cleaning and preprocessing—handling missing values, correcting inconsistencies, and preparing the dataset for analysis.
+
+I then performed Exploratory Data Analysis (EDA) to understand key aspects of the data, including purchase frequency, pricing distribution, and product category performance. Using data visualization techniques, I was able to highlight trends such as which products are most popular, how customer demand changes over time, and how different variables like price and quantity interact with each other.
+
+This project helped me better understand how raw data can be transformed into actionable insights. For example, businesses can use these insights to optimize pricing strategies, manage inventory more efficiently, and tailor their offerings based on customer preferences.
+
+From a technical perspective, this project strengthened my skills in:
+🔹 Data cleaning and preprocessing
+🔹 Exploratory Data Analysis (EDA)
+🔹 Data visualization and storytelling
+🔹 Extracting insights from real-world datasets
+
+🛠️ Tools & Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn
+
+
+
+
+
 
